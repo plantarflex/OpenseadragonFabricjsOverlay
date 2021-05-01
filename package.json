@@ -1,0 +1,22 @@
+{
+  "name": "openseadragon-fabricjs-overlay",
+  "version": "1.0.0",
+  "description": "Fabricjs@4.0.0-rc.1 adapted for OpenSeaDragon",
+  "main": "./dist/fabric.js",
+  "dependencies": {
+    "fabric":"4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantarflex/OpenseadragonFabricjsOverlay.git"
+  },
+  "author": "plantarflex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plantarflex/OpenseadragonFabricjsOverlay.git"
+  },
+  "homepage": "https://github.com/plantarflex/OpenseadragonFabricjsOverlay#readme"
+}
